@@ -33,6 +33,14 @@ Code "Dan" is an innovative tool developed to enhance and customize interactions
 2. **Customization:** Configure preferences and parameters according to your needs to get more aligned and effective responses.
 3. **Usage:** Once integrated and configured, Code "Dan" operates in real-time to optimize interactions with Character.ai.
 
+## Contact
+
+For any questions or support, feel free to reach out to me:
+
+- **Instagram**: [@1925days](https://www.instagram.com/1925days/)
+- **Email**: [DanielSantzs18@gmail.com](mailto:mailto:DanielSantzs18@gmail.com)
+- **Discord**: [https://discord.com/user/DanielSantzs](https://discord.com/users/1283088407052156982)
+- **Telegram**: [@DanielSantzs](https://t.me/@DanielSantzs)
 
 
 
